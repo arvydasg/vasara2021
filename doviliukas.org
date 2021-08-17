@@ -1,0 +1,70 @@
+#+SETUPFILE: /home/azeubu/Dropbox/doviliukas/org-html-themes/org/theme-bigblow-local.setup
+#+AUTHOR: Aze
+#+TITLE: Dienos kaip šventė
+#+DESCRIPTION: Rami galva
+#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/doviliukas/local.html
+#+OPTIONS: num:nil
+
+* Suplanuotos veiklos
+**  <2021-08-17 Tue>
+**** Pakeisti elementus
+**** Ijungti sviesytes
+**** Rakteliai namu tetei (pasilik pasto dezutes raktus)
+**** Decathalon atsiimti suomiskus keglius (Vilnius)
+**** Decatalon stalo teniso raketes
+**** Mazvydo bible patikrinti del skaitykles (Vilnius)
+**** Formosa gerimai sveteliam paruosti (Vilnius)
+**** 21:20 Sveteliai leidziasi Vilniuje
+**  <2021-08-18 Wed>
+**** 12:00 val renkames Aukstaiciu g. gaminam valgyt, mamai staigmenyte
+**  <2021-08-19 Thu>
+**** Armatura atveza sode
+**  <2021-08-20 Fri>
+**** Prie juros
+**  <2021-08-21 Sat>
+**** Prie juros
+**  <2021-08-22 Sun>
+**** Prie juros
+**  <2021-08-23 Mon>
+**** Prie juros
+**  <2021-08-24 Tue>
+**** Mamos gimsiukas!!!
+**  <2021-08-25 Wed>
+**  <2021-08-26 Thu>
+**  <2021-08-27 Fri>
+**** Le Diner en Blanc, Vilnius    
+**  <2021-08-28 Sat>
+**** Bistrampolio baras mama pasveikinti     
+**  <2021-08-29 Sun>
+**  <2021-08-30 Mon>
+**  <2021-08-31 Tue>
+**** 14:45 Sveteliai isvaro
+* Galimos veiklos
+** Panevezys
+**** Babes aikstelej pakimarint vakare, pakiesint kebabu, sedet ant kapoto ir ziuret i iejima
+**** Babes aikstelej vakare plauti masina 
+**** Skaistuko sleptuve patikrinti
+**** Maudytis Piniavoj. Privacioj, geroj vietoj
+**** Turgelis Klaipedos gatvej
+**** Kegliai
+**** Saslykai/desrytes
+**** Baidarem Panevezio rajone?
+**** Senvage apeiti/apziureti progresa
+** Prie juros (Pervalka)
+**** Dviraciai
+**** Stalo tenisas
+**** Suomisku kegliu zaidimas
+**** Grybavimas
+**** Maudymasis juroje
+**** Pliekti Carcassone
+**** Paskanauti rukytu zuvyciu
+**** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
+** Siaip uz miesto
+**** Visaginas - vaiduokliu miestas
+**** 24-26 diena galima I ignalina ekskursija 90eur, savaitgali taip pat galima 28-29d
+**** Birzu muziejus/bokstas/tiltas/pilis
+**** Eco turgelis uz pasvalio
+**** Anyksciai palaipioti?
+**** Paspirtukais po Vilniu
+** Valgymas
+**** Karsakiskietiski uzkandziai
