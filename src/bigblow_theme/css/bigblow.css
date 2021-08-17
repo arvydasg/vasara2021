@@ -22,6 +22,10 @@ html, body {
     padding: 0;
 }
 
+#left-panel-button, #minitoc, #toTop{
+    display:none;
+}
+
 @media print {
     .dontprint {
         display: none;
