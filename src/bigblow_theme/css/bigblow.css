@@ -21,11 +21,15 @@ html, body {
     margin: 0;
     padding: 0;
 }
-
+/* mano config */
 #left-panel-button, #minitoc, #toTop{
     display:none;
 }
 
+/* .title { */
+/*     background-color: white; */
+/* } */
+/* end of mano config */
 @media print {
     .dontprint {
         display: none;

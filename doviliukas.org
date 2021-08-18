@@ -8,40 +8,26 @@
 * Suplanuotos veiklos
 **  <2021-08-18 Wed>
 **** 12:00 - iki vakaro. Renkames Aukstaiciu g. gaminam valgyt, mamai staigmenyte po darbo
-**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | (saldu, Nepalietiska)
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 08:37] \\
-       https://www.youtube.com/watch?v=mQak2o8_OdA
-     :END:
+**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
 **  <2021-08-19 Thu>
 **** Grybaut nuo ryto? (karsakiskietiski uzkandziai pakeliuj)
-
 **** Pietus Zara restoranas 
 **** Armatura atveza sode (siulyciau taip pat pas baba varyt siandien)
 **** Julyte Jonava
-**** 21:30 Kinas po atviru dangumi - Prancuziskas filmas
+**** 21:30 Kinas po atviru dangumi - [[https://renginiai.kasvyksta.lt/92396/atviras-kino-seansas-filmas-papisa][Prancuziskas filmas]]
      :LOGBOOK:
      - Note taken on [2021-08-18 Tr 09:21] \\
        Dalyvauja prekinio zenklo "MUR MUR" ikureja.
-     - Note taken on [2021-08-18 Tr 09:21] \\
-       https://renginiai.kasvyksta.lt/92396/atviras-kino-seansas-filmas-papisa
      :END:
 **  <2021-08-20 Fri>
 **** Prie juros
 **  <2021-08-21 Sat>
 **** Prie juros
-**  <2021-08-22 Sun>
+**  <2021-08-22 Sun>hh
 **** Prie juros
 **  <2021-08-23 Mon>
 **** Prie juros
-**** Tulpese nera karsto vandens nuo 08:00 val
-    #+NAME: fig:figure name
-    #+ATTR_ORG: :width 500
-    #+ATTR_LATEX: :width 2.0in
-    #+ATTR_HTML: :width 500
-    #+CAPTION: A black cat stalking a spider
-    #+ATTR_HTML: :alt cat/spider image :title Action! 
-    [[file:images/karstas.jpeg][Pranesimas]]
+**** Tulpese nera karsto vandens nuo 08:00 val - [[file:images/karstas.jpeg][Paspausk mane]]
 **  <2021-08-24 Tue>
 **** Mamos gimsiukas!!!
 **** Tulpese nera karsto 
@@ -74,31 +60,13 @@
 **** Senvage apeiti/apziureti progresa
 **** Penktadieniais - Panevezio veiklos nuo 12val iki velumos. Filmas.
 **** Grybauti (Zalioji, Simonys, Subacius)
-**** Forumcinemas (bet galim ziureti ir kokiuose Siauliuose ;)
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 09:08] \\
-       https://www.apollokinas.lt/home
-     - Note taken on [2021-08-18 Tr 08:07] \\
-       https://www.forumcinemas.lt/Movies/Siauliai/
-     :END:
-**** Ant lentu!! (wake parkas)
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 09:08] \\
-       https://vandenlentes.lt/panevezys/
-     :END:
+**** Forumcinemas [[https://www.apollokinas.lt/home][Panevezyje]] [[https://www.forumcinemas.lt/Movies/Siauliai/][(bet galim ziureti ir kokiuose Siauliuose]] ;) )
+**** Ant lentu!! [[https://vandenlentes.lt/panevezys/][Wake parkas]]
 **** Patiem sukurti geocaching spota arba eiti ieskoti
 **** Aerodromo rajonai (lektuviukai ir pan, pestute)
 **** 25d. 18:00 Puciamuju orkestras Garsas.
-**** 28d. 22:00 Electro thingy (galimybiu pasas privalomas)
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 09:12] \\
-       https://renginiai.kasvyksta.lt/92162/triuksmas-traukiniu-depe
-     :END:
-**** 29d. 18:00 Jazz concert thingy 
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 09:10] \\
-       https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai
-     :END:
+**** 28d. 22:00 Electro thingy [[https://renginiai.kasvyksta.lt/92162/triuksmas-traukiniu-depe][(galimybiu pasas privalomas)]] 
+**** 29d. 18:00 Jazz concert thingy [[https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai][link]]
 **** Dalykai - https://cutt.ly/pQB1QYv
 ** Siaip uz miesto (?)
 **** Anyksciai palaipioti medziais?
