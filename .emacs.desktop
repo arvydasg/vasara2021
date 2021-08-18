@@ -2,234 +2,42 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Aug 18 11:13:50 2021
+;; Created Wed Aug 18 11:33:10 2021
 ;; Desktop file format version 208
 ;; Emacs version 26.3
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (24860 49470 323960 56000) (desktop . "208") "azeubu@azeubu-Aspire-V3-771" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 0) (right-fringe . 0) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (sticky) (environment) (powerline-cache) (frameset--id . "475D-CAAE-8578-CF95") (frameset--mini t . t) (height . 56) (width . 213) (modeline . t) (unsplittable) (left + -1) (top . 26) (icon-name) (display . ":0") (explicit-name)) ((min-height . 8) (min-width . 20) (min-height-ignore . 8) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 144) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 998) (total-width . 213) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 957) (pixel-height . 998) (total-width . 106) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "doviliukas.org" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1678) (start . 1))) (vc (last . t) (pixel-width . 963) (pixel-height . 998) (total-width . 107) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 963) (pixel-height . 494) (total-width . 107) (total-height . 27) (normal-height . 0.5) (normal-width . 1.0) (buffer "*shell*" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 21041) (start . 19989))) (leaf (last . t) (pixel-width . 963) (pixel-height . 504) (total-width . 107) (total-height . 28) (normal-height . 0.5) (normal-width . 1.0) (buffer "someday.org" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 26572) (start . 26242))))))])
+(setq desktop-saved-frameset [frameset 1 (24860 50630 205325 95000) (desktop . "208") "azeubu@azeubu-Aspire-V3-771" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 0) (right-fringe . 0) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (sticky) (environment) (powerline-cache) (frameset--id . "C27B-1C22-2A4C-1AD4") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 56) (width . 213) (left + -1) (top . 26)) ((min-height . 8) (min-width . 20) (min-height-ignore . 8) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 144) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 998) (total-width . 213) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 957) (pixel-height . 998) (total-width . 106) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "doviliukas.org" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (vc (last . t) (pixel-width . 963) (pixel-height . 998) (total-width . 107) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 963) (pixel-height . 512) (total-width . 107) (total-height . 28) (normal-height . 0.5142857142857142) (normal-width . 1.0) (buffer "*shell*" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 44) (start . 1))) (leaf (last . t) (pixel-width . 963) (pixel-height . 486) (total-width . 107) (total-height . 27) (normal-height . 0.4857142857142857) (normal-width . 1.0) (buffer "someday.org" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 26572) (start . 26062))))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring '("armatur" "hh" "die" "http" "export" "git" "kars" "wake" "pranesim" "\\(gnu\\).*?\\(em\\)" "github" "image" "dropbo" "bistram" "suomi" "siaul"))
+(setq regexp-search-ring '("pass"))
 (setq register-alist nil)
-(setq file-name-history '("/home/azeubu/Dropbox/doviliukas/emacs-html/" "~/Dropbox/org/myinit.org" "~/Dropbox/doviliukas/emacs-html/doviliukas.org" "~/Dropbox/org/julija.consulting.org" "~/Dropbox/org/personal.org" "~/Dropbox/doviliukas.org" "~/Dropbox/doviliukas/emacs-html/index.html" "~/Dropbox/org/emacs.org" "~/Dropbox/doviliukas/emacs-html/src/bigblow_theme/css/bigblow.css" "~/Dropbox/org/inbox.org" "~/Dropbox/org/someday.org" "~/.emacs.d/bookmarks" "~/.emacs.d/recentf" "~/Dropbox/django/gvazdikelis/articles/20210604_SimBack.php" "~/Dropbox/org/daily.org" "~/Dropbox/org/diary.org" "~/Dropbox/org/personal_website.org" "~/Dropbox/org/obelsdumas.org" "~/Dropbox/org/django.org" "~/.emacs.d/elpa/dired-sidebar-20210608.2340/dired-sidebar-autoloads.el" "~/.emacs.d/elpa/dired-subtree-20210105.1127/dired-subtree-autoloads.el"))
+(setq file-name-history '("/home/azeubu/Dropbox/doviliukas/emacs-html/doviliukas.org"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/doviliukas/emacs-html/doviliukas.org"
-  "doviliukas.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1678
-  '(495 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 49452 790291 268000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (495 296 296 1411 1622 110 110 110 110 2803 2690 2620 2557 2427 2322 1678))))
-
 (desktop-create-buffer 208
   "/home/azeubu/Dropbox/org/someday.org"
   "someday.org"
   'org-mode
   '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
   26572
-  '(26612 nil)
+  '(26619 t)
   nil
   nil
-  '((buffer-display-time 24860 49452 790291 821000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (26582 26582 26582 26582 26582 26582 26621 26612 26575 26575 26575 26575 26575 26575 26612 26580))))
+  '((buffer-display-time 24860 50593 785721 645000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (26619 26619 26619 26619 26619 26585 26585 26585 26585 26585 26585 1))))
 
 (desktop-create-buffer 208
-  "/home/azeubu/Dropbox/doviliukas/emacs-html/README.md"
-  "README.md"
-  'fundamental-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  391
-  '(289 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 45226 922385 110000) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (38 15 13 429 391))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/doviliukas/emacs-html/src/bigblow_theme/css/bigblow.css"
-  "bigblow.css"
-  'css-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  939
-  '(925 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 44877 488903 988000) (buffer-file-coding-system . undecided-unix))
-  '((mark-ring (847 1007 932 1039 1062 974 974 939))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/emacs.org"
-  "emacs.org"
+  "/home/azeubu/Dropbox/doviliukas/emacs-html/doviliukas.org"
+  "doviliukas.org"
   'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  10219
-  '(1 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 44336 104163 785000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (4519 4268 4110 4110 4430 11780 10512 3977 2961 3759 3836 3688 1 2837 2961 10562))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/personal.org"
-  "personal.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  5108
-  '(5316 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 40559 626927 274000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5316 5108))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/julija.consulting.org"
-  "julija.consulting.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  3940
-  '(3702 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 37517 503582 911000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (3233 3646 3701 3940 3940 3940 3940))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/myinit.org"
-  "myinit.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  4108
-  '(4074 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 37020 729889 595000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (4109 4109 4022))))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/doviliukas/emacs-html/index.html"
-  "index.html"
-  'web-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time 24860 36343 53367 271000) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/inbox.org"
-  "inbox.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  66
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time 24860 36339 223462 403000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/doviliukas/emacs-html/images/karstas.jpeg"
-  "karstas.jpeg"
-  'image-mode
   '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
   1
   '(1 nil)
   nil
   nil
-  '((buffer-display-time 24860 37088 749888 146000) (buffer-file-coding-system . no-conversion) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/daily.org"
-  "daily.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/diary.org"
-  "diary.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/django.org"
-  "django.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/obelsdumas.org"
-  "obelsdumas.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/personal_website.org"
-  "personal_website.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  nil
-  ":~/Dropbox/doviliukas/emacs-html/"
-  'dired-sidebar-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode buffer-face-mode auto-revert-mode)
-  373
-  '(nil nil)
-  t
-  '("/home/azeubu/Dropbox/doviliukas/emacs-html/")
-  '((buffer-display-time 24860 39138 142154 428000))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/backups/archive/someday.org_datetree"
-  "someday.org_datetree"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1173
-  '(nil nil)
-  nil
-  nil
-  '((buffer-display-time) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((buffer-display-time 24860 50593 785721 45000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
   '((mark-ring nil)))
 
