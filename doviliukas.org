@@ -6,19 +6,26 @@
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-**  <2021-08-17 Tue>
-**** Pakeisti elementus
-**** Ijungti sviesytes
-**** Rakteliai namu tetei (pasilik pasto dezutes raktus)
-**** Decathalon atsiimti dalykus du (Vilnius)
-**** Mazvydo bible patikrinti del skaitykles (Vilnius)
-**** Formosa gerimai sveteliam paruosti (Vilnius)
-**** 21:20 Sveteliai leidziasi Vilniuje
 **  <2021-08-18 Wed>
-**** 12:00 val renkames Aukstaiciu g. gaminam valgyt, mamai staigmenyte
+**** 12:00 - iki vakaro. Renkames Aukstaiciu g. gaminam valgyt, mamai staigmenyte po darbo
+**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | (saldu, Nepalietiska)
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 08:37] \\
+       https://www.youtube.com/watch?v=mQak2o8_OdA
+     :END:
 **  <2021-08-19 Thu>
-**** Julyte Jonava
+**** Grybaut nuo ryto? (karsakiskietiski uzkandziai pakeliuj)
+
+**** Pietus Zara restoranas 
 **** Armatura atveza sode (siulyciau taip pat pas baba varyt siandien)
+**** Julyte Jonava
+**** 21:30 Kinas po atviru dangumi - Prancuziskas filmas
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 09:21] \\
+       Dalyvauja prekinio zenklo "MUR MUR" ikureja.
+     - Note taken on [2021-08-18 Tr 09:21] \\
+       https://renginiai.kasvyksta.lt/92396/atviras-kino-seansas-filmas-papisa
+     :END:
 **  <2021-08-20 Fri>
 **** Prie juros
 **  <2021-08-21 Sat>
@@ -34,10 +41,11 @@
     #+ATTR_HTML: :width 500
     #+CAPTION: A black cat stalking a spider
     #+ATTR_HTML: :alt cat/spider image :title Action! 
-    [[file:~/Dropbox/doviliukas/emacs-html/images/karstas.jpeg][GNU EMACS]]
+    [[file:images/karstas.jpeg][Pranesimas]]
 **  <2021-08-24 Tue>
 **** Mamos gimsiukas!!!
 **** Tulpese nera karsto 
+**** Pas Zita valgykloj pietu (sklindziai siandien)
 **  <2021-08-25 Wed>
 **** Tulpese nera karsto 
 **  <2021-08-26 Thu>
@@ -68,28 +76,39 @@
 **** Grybauti (Zalioji, Simonys, Subacius)
 **** Forumcinemas (bet galim ziureti ir kokiuose Siauliuose ;)
      :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 09:08] \\
+       https://www.apollokinas.lt/home
      - Note taken on [2021-08-18 Tr 08:07] \\
        https://www.forumcinemas.lt/Movies/Siauliai/
      :END:
 **** Ant lentu!! (wake parkas)
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 09:08] \\
+       https://vandenlentes.lt/panevezys/
+     :END:
 **** Patiem sukurti geocaching spota arba eiti ieskoti
 **** Aerodromo rajonai (lektuviukai ir pan, pestute)
+**** 25d. 18:00 Puciamuju orkestras Garsas.
+**** 28d. 22:00 Electro thingy (galimybiu pasas privalomas)
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 09:12] \\
+       https://renginiai.kasvyksta.lt/92162/triuksmas-traukiniu-depe
+     :END:
+**** 29d. 18:00 Jazz concert thingy 
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 09:10] \\
+       https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai
+     :END:
+**** Dalykai - https://cutt.ly/pQB1QYv
 ** Siaip uz miesto (?)
 **** Anyksciai palaipioti medziais?
 **** Kryziu kalnas (Siauliai)
 ** Valgymas
-**** Karsakiskietiski uzkandziai
+**** Karsakiskietiski uzkandziai (vaziuojant grybauti)
 **** Le parma picerija
-**** Kimar ir kiesaras (kebabas/salotos) ant tiklu prie ekrano
+**** Kimar ir kiesaras (kebabas/salotos) ant tinklu prie ekrano
 **** Babes aikstelej pakimarint vakare, pakiesint kebabu, sedet ant kapoto ir ziuret i iejima
 **** surios lazdeles su cheetos - thank you bye
-**** Vakarine zara restoranas
-**** Pas Zita valgykloj pietu
-**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | (saldu, Nepalietiska)
-     :LOGBOOK:
-     - Note taken on [2021-08-18 Tr 08:37] \\
-       https://www.youtube.com/watch?v=mQak2o8_OdA
-     :END:
 ** Birzai (North)
 **** Padevalkes (geltonas namelis)
 **** Basu koju takas (sweaty activity)
@@ -128,3 +147,12 @@
 **** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
 **** Zirgais pajodineti prie juros (Dovil)
 **** Aitvaras ;)
+* Archyvas
+**  <2021-08-17 Tue>
+**** Pakeisti elementus
+**** Ijungti sviesytes
+**** Rakteliai namu tetei (pasilik pasto dezutes raktus)
+**** Decathalon atsiimti dalykus du (Vilnius)
+**** Mazvydo bible patikrinti del skaitykles (Vilnius)
+**** Formosa gerimai sveteliam paruosti (Vilnius)
+**** 21:20 Sveteliai leidziasi Vilniuje
