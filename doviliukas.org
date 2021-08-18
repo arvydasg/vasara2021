@@ -1,24 +1,24 @@
-#+SETUPFILE: /home/azeubu/Dropbox/doviliukas/org-html-themes/org/theme-bigblow-local.setup
+#+SETUPFILE: /home/azeubu/Dropbox/emacs/org-html-themes/org/theme-bigblow-local.setup
 #+AUTHOR: Aze
 #+TITLE: Dienos kaip šventė
 #+DESCRIPTION: Rami galva
-#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/doviliukas/local.html
-#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/doviliukas/emacs-html/index.html
+#+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
 **  <2021-08-17 Tue>
 **** Pakeisti elementus
 **** Ijungti sviesytes
 **** Rakteliai namu tetei (pasilik pasto dezutes raktus)
-**** Decathalon atsiimti suomiskus keglius (Vilnius)
-**** Decatalon stalo teniso raketes
+**** Decathalon atsiimti dalykus du (Vilnius)
 **** Mazvydo bible patikrinti del skaitykles (Vilnius)
 **** Formosa gerimai sveteliam paruosti (Vilnius)
 **** 21:20 Sveteliai leidziasi Vilniuje
 **  <2021-08-18 Wed>
 **** 12:00 val renkames Aukstaiciu g. gaminam valgyt, mamai staigmenyte
 **  <2021-08-19 Thu>
-**** Armatura atveza sode
+**** Julyte Jonava
+**** Armatura atveza sode (siulyciau taip pat pas baba varyt siandien)
 **  <2021-08-20 Fri>
 **** Prie juros
 **  <2021-08-21 Sat>
@@ -27,44 +27,104 @@
 **** Prie juros
 **  <2021-08-23 Mon>
 **** Prie juros
+**** Tulpese nera karsto vandens nuo 08:00 val
+    #+NAME: fig:figure name
+    #+ATTR_ORG: :width 500
+    #+ATTR_LATEX: :width 2.0in
+    #+ATTR_HTML: :width 500
+    #+CAPTION: A black cat stalking a spider
+    #+ATTR_HTML: :alt cat/spider image :title Action! 
+    [[file:~/Dropbox/doviliukas/emacs-html/images/karstas.jpeg][GNU EMACS]]
 **  <2021-08-24 Tue>
 **** Mamos gimsiukas!!!
+**** Tulpese nera karsto 
 **  <2021-08-25 Wed>
+**** Tulpese nera karsto 
 **  <2021-08-26 Thu>
+**** Tulpese nera karsto 
 **  <2021-08-27 Fri>
-**** Le Diner en Blanc, Vilnius    
+**** Le Diner en Blanc, Vilnius
+**** Tulpese nera karsto iki 18:00
 **  <2021-08-28 Sat>
 **** Bistrampolio baras mama pasveikinti     
 **  <2021-08-29 Sun>
+**** Sveteliai buna Vilniuje (1/2)
 **  <2021-08-30 Mon>
+**** Sveteliai buna Vilniuje (2/2)
 **  <2021-08-31 Tue>
 **** 14:45 Sveteliai isvaro
 * Galimos veiklos
 ** Panevezys
-**** Babes aikstelej pakimarint vakare, pakiesint kebabu, sedet ant kapoto ir ziuret i iejima
 **** Babes aikstelej vakare plauti masina 
 **** Skaistuko sleptuve patikrinti
 **** Maudytis Piniavoj. Privacioj, geroj vietoj
 **** Turgelis Klaipedos gatvej
 **** Kegliai
-**** Saslykai/desrytes
+**** Padevalkes
+**** Baze
 **** Baidarem Panevezio rajone?
 **** Senvage apeiti/apziureti progresa
-** Prie juros (Pervalka)
-**** Dviraciai
-**** Stalo tenisas
-**** Suomisku kegliu zaidimas
-**** Grybavimas
-**** Maudymasis juroje
-**** Pliekti Carcassone
-**** Paskanauti rukytu zuvyciu
-**** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
-** Siaip uz miesto
-**** Visaginas - vaiduokliu miestas
-**** 24-26 diena galima I ignalina ekskursija 90eur, savaitgali taip pat galima 28-29d
-**** Birzu muziejus/bokstas/tiltas/pilis
-**** Eco turgelis uz pasvalio
-**** Anyksciai palaipioti?
-**** Paspirtukais po Vilniu
+**** Penktadieniais - Panevezio veiklos nuo 12val iki velumos. Filmas.
+**** Grybauti (Zalioji, Simonys, Subacius)
+**** Forumcinemas (bet galim ziureti ir kokiuose Siauliuose ;)
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 08:07] \\
+       https://www.forumcinemas.lt/Movies/Siauliai/
+     :END:
+**** Ant lentu!! (wake parkas)
+**** Patiem sukurti geocaching spota arba eiti ieskoti
+**** Aerodromo rajonai (lektuviukai ir pan, pestute)
+** Siaip uz miesto (?)
+**** Anyksciai palaipioti medziais?
+**** Kryziu kalnas (Siauliai)
 ** Valgymas
 **** Karsakiskietiski uzkandziai
+**** Le parma picerija
+**** Kimar ir kiesaras (kebabas/salotos) ant tiklu prie ekrano
+**** Babes aikstelej pakimarint vakare, pakiesint kebabu, sedet ant kapoto ir ziuret i iejima
+**** surios lazdeles su cheetos - thank you bye
+**** Vakarine zara restoranas
+**** Pas Zita valgykloj pietu
+**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | (saldu, Nepalietiska)
+     :LOGBOOK:
+     - Note taken on [2021-08-18 Tr 08:37] \\
+       https://www.youtube.com/watch?v=mQak2o8_OdA
+     :END:
+** Birzai (North)
+**** Padevalkes (geltonas namelis)
+**** Basu koju takas (sweaty activity)
+**** Apzvalgos bokstas (beautiful tower)
+**** Sodeliskio dvaras (farm vibes)
+**** Masinu muzieju (car museum)
+**** Baba favorite museum
+**** Birzu pilis
+**** pakeliuj - Eco turgelis uz pasvalio
+**** Birzu kebabine (meniu foto check, uzsisakom telefonu)
+**** Kestucio g. firmine birzu duonos parde.
+** Visaginas (East)
+**** Visaginas - vaiduokliu miestas
+**** 24-26 diena galima I ignalina ekskursija 90eur, savaitgali taip pat galima 28-29d
+**** Russian vibes
+**** Radijoaktyvumo skale!!!
+**** Apleisti namai (pasiimkit sportbacius)
+**** Paruski rajonai (garsiakalbiai, kiemai, ir pan)
+**** Pakimarinti prie Elektrines is didziosios E.
+** Vilnius (South)
+**** Kino pasaka (filmas po atviru dangumi?)
+**** Paspirtukais po Vilniu
+**** Doviliuk susitinka pazistamus
+**** Panarsyti pozeminiuose tuneliuose
+**** Lektuvu stebejimo aikstele
+**** Oro balionu pakilimu/nusileidimu stebejimas
+** Prie juros (Pervalka - West)
+**** Dviraciai
+**** Stalo tenisas
+**** Zaidimas ant zoles
+**** Doviles zaidimas
+**** Grybavimas
+**** Maudymasis juroje
+**** Pliekti Karka
+**** Paskanauti rukytu zuvyciu
+**** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
+**** Zirgais pajodineti prie juros (Dovil)
+**** Aitvaras ;)
