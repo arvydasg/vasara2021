@@ -2,42 +2,42 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Aug 18 11:34:42 2021
+;; Created Thu Aug 19 07:15:59 2021
 ;; Desktop file format version 208
 ;; Emacs version 26.3
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (24860 50722 133500 272000) (desktop . "208") "azeubu@azeubu-Aspire-V3-771" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 0) (right-fringe . 0) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (sticky) (environment) (powerline-cache) (frameset--id . "C27B-1C22-2A4C-1AD4") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 56) (width . 213) (left + -1) (top . 26)) ((min-height . 8) (min-width . 20) (min-height-ignore . 8) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 144) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 998) (total-width . 213) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 957) (pixel-height . 998) (total-width . 106) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "doviliukas.org" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (vc (last . t) (pixel-width . 963) (pixel-height . 998) (total-width . 107) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 963) (pixel-height . 512) (total-width . 107) (total-height . 28) (normal-height . 0.5142857142857142) (normal-width . 1.0) (buffer "*shell*" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1690) (start . 489))) (leaf (last . t) (pixel-width . 963) (pixel-height . 486) (total-width . 107) (total-height . 27) (normal-height . 0.4857142857142857) (normal-width . 1.0) (buffer "someday.org" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 26612) (start . 26062))))))])
+(setq desktop-saved-frameset [frameset 1 (24861 56063 994533 218000) (desktop . "208") "azeubu@azeubu-Aspire-V3-771" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-17-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono 13") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 0) (right-fringe . 0) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (sticky) (environment) (powerline-cache) (frameset--id . "C27B-1C22-2A4C-1AD4") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 56) (width . 211) (left + -1) (top . 26)) ((min-height . 4) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 18) (min-pixel-height-safe . 18) (min-pixel-width-safe . 18)) leaf (pixel-width . 1904) (pixel-height . 998) (total-width . 212) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (buffer "doviliukas.org" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1630) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring '("pass"))
+(setq regexp-search-ring '("cursors" "mult" "18" "skais" "valg" "pass"))
 (setq register-alist nil)
 (setq file-name-history '("/home/azeubu/Dropbox/doviliukas/emacs-html/doviliukas.org"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
-  "/home/azeubu/Dropbox/org/someday.org"
-  "someday.org"
-  'org-mode
-  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  26612
-  '(26572 nil)
-  nil
-  nil
-  '((buffer-display-time 24860 50684 689477 425000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
-  '((mark-ring (26572 26572 26572 26572 26572 26572 26572 26572 26572 26572 26572 26572 1))))
-
-(desktop-create-buffer 208
   "/home/azeubu/Dropbox/doviliukas/emacs-html/doviliukas.org"
   "doviliukas.org"
   'org-mode
   '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
-  1
-  '(1 nil)
+  1630
+  '(nil nil)
   nil
   nil
-  '((buffer-display-time 24860 50684 689476 767000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((buffer-display-time 24861 56011 329452 513000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
   '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/azeubu/Dropbox/org/myinit.org"
+  "myinit.org"
+  'org-mode
+  '(super-save-mode override-global-mode company-mode ivy-mode counsel-mode which-key-mode undo-tree-mode)
+  19138
+  '(19098 nil)
+  nil
+  nil
+  '((buffer-display-time 24861 55978 10756 753000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring (19286 19284 19053))))
 

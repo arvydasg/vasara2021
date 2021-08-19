@@ -6,14 +6,9 @@
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-**  <2021-08-18 Wed>
-**** Armatura atveza sode - aplankom baba
-**** Arvydas/Julyte Klaipedos g. gamina suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
-**** Dovil/Clement Aukstaiciu g. 14:00 - iki vakaro. Siurprizas mamai
 **  <2021-08-19 Thu>
-**** Grybaut nuo ryto? (karsakiskietiski uzkandziai pakeliuj)
+**** Grybaut nuo ryto? (Zalioji, Simonys, Subacius) (karsakiskietiski uzkandziai pakeliuj)
 **** Pietus Zara restoranas 
-**** Julyte Jonava
 **** 21:30 Kinas po atviru dangumi - [[https://renginiai.kasvyksta.lt/92396/atviras-kino-seansas-filmas-papisa][Prancuziskas filmas]]
      :LOGBOOK:
      - Note taken on [2021-08-18 Tr 09:21] \\
@@ -50,7 +45,6 @@
 * Galimos veiklos
 ** Panevezys
 **** Babes aikstelej vakare plauti masina 
-**** Skaistuko sleptuve patikrinti
 **** Maudytis Piniavoj. Privacioj, geroj vietoj
 **** Turgelis Klaipedos gatvej
 **** Kegliai
@@ -58,8 +52,6 @@
 **** Baze
 **** Baidarem Panevezio rajone?
 **** Senvage apeiti/apziureti progresa
-**** Penktadieniais - Panevezio veiklos nuo 12val iki velumos. Filmas.
-**** Grybauti (Zalioji, Simonys, Subacius)
 **** Forumcinemas [[https://www.apollokinas.lt/home][Panevezyje]] [[https://www.forumcinemas.lt/Movies/Siauliai/][(bet galim ziureti ir kokiuose Siauliuose]] ;) )
 **** Ant lentu!! [[https://vandenlentes.lt/panevezys/][Wake parkas]]
 **** Patiem sukurti geocaching spota arba eiti ieskoti
@@ -72,11 +64,11 @@
 **** Anyksciai palaipioti medziais?
 **** Kryziu kalnas (Siauliai)
 ** Valgymas
-**** Karsakiskietiski uzkandziai (vaziuojant grybauti)
+**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
 **** Le parma picerija
 **** Kimar ir kiesaras (kebabas/salotos) ant tinklu prie ekrano
 **** Babes aikstelej pakimarint vakare, pakiesint kebabu, sedet ant kapoto ir ziuret i iejima
-**** surios lazdeles su cheetos - thank you bye
+**** Surio lazdeles su cheetos - thank you bye
 ** Birzai (North)
 **** Padevalkes (geltonas namelis)
 **** Basu koju takas (sweaty activity)
@@ -104,6 +96,7 @@
 **** Lektuvu stebejimo aikstele
 **** Oro balionu pakilimu/nusileidimu stebejimas
 ** Prie juros (Pervalka - West)
+**** Foto visiem vertikalia
 **** Dviraciai
 **** Stalo tenisas
 **** Zaidimas ant zoles
@@ -116,11 +109,26 @@
 **** Zirgais pajodineti prie juros (Dovil)
 **** Aitvaras ;)
 * Archyvas
+**  <2021-08-18 Wed>
+**** DONE Armatura atveza sode - aplankom baba
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Skaistuko sleptuve patikrinti
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Dovil/Clement Aukstaiciu g. 14:00 - iki vakaro. Siurprizas mamai
+     CLOSED: [2021-08-19 Kt 06:57]
 **  <2021-08-17 Tue>
-**** Pakeisti elementus
-**** Ijungti sviesytes
-**** Rakteliai namu tetei (pasilik pasto dezutes raktus)
-**** Decathalon atsiimti dalykus du (Vilnius)
-**** Mazvydo bible patikrinti del skaitykles (Vilnius)
-**** Formosa gerimai sveteliam paruosti (Vilnius)
-**** 21:20 Sveteliai leidziasi Vilniuje
+**** DONE Pakeisti elementus
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Ijungti sviesytes
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Rakteliai namu tetei (pasilik pasto dezutes raktus)
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Decathalon atsiimti dalykus du (Vilnius)
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Mazvydo bible patikrinti del skaitykles (Vilnius)
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE Formosa gerimai sveteliam paruosti (Vilnius)
+     CLOSED: [2021-08-19 Kt 06:57]
+**** DONE 21:20 Sveteliai leidziasi Vilniuje
+     CLOSED: [2021-08-19 Kt 06:57]
+
