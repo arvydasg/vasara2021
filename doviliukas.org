@@ -10,6 +10,7 @@
 **** Prie juros
 **** Pasiimti:
 ***** Ragelis
+***** Kosmetines
 ***** Ragelis/pakrovejas
 ***** Kompas/pakrovejas
 ***** Foto/objektyvai/ratas/baterijos
