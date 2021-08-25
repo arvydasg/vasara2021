@@ -6,38 +6,19 @@
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-**  <2021-08-24 Tue>
-**** Mamos gimsiukas!!!
-**** Tulpese nera karsto
-**** 8:30 pas Dovil
-**** Pas baba keksiukai
-**** Padevalkes (geltonas namelis)
-**** Basu koju takas (sweaty activity)
-**** Apzvalgos bokstas (beautiful tower)
-**** Sodeliskio dvaras (farm vibes)
-**** Masinu muzieju (car museum)
-**** Birzu pilis
-**** pakeliuj - Eco turgelis uz pasvalio
-**** Birzu kebabine (meniu foto check, uzsisakom telefonu)
-**** Kestucio g. firmine birzu duonos parde.
-**** Pliekti Karka
-**  <2021-08-25 Wed>
-**** Tulpese nera karsto
-**** 16:30 Atomines ekskursija
-**** Visaginas - vaiduokliu miestas
-**** 24-26 diena galima I ignalina ekskursija 90eur, savaitgali taip pat galima 28-29d
-**** Russian vibes
-**** Radijoaktyvumo skale!!!
-**** Apleisti namai (pasiimkit sportbacius)
-**** Paruski rajonai (garsiakalbiai, kiemai, ir pan)
-**** Pakimarinti prie Elektrines is didziosios E.
 **  <2021-08-26 Thu>
 **** Tulpese nera karsto
+**** Linas
+**** Taboras
+**** Bazilikais bundialos Clement
+**** Varlyte m
 **** 19:00 [[https://www.garsas.lt/renginys/rugpjucio-26-d-1900-val-filmas-frida-viva-la-vida/][Frida movie]]
 **  <2021-08-27 Fri>
 **** Tulpese nera karsto iki 18:00
+**** [[https://renginiai.panevezysnow.lt/renginys/susitikime-penktadieni/][Susitikime penktadieni renginux]]
 **  <2021-08-28 Sat>
 **** Bistrampolio baras mama pasveikinti
+**** Ale kolonele sugedus? Pasiimk, susirasti dainusku
 **  <2021-08-29 Sun>
 **** Sveteliai buna Vilniuje (1/2)
 **** Nemokami koncai Vilniuje snd
@@ -90,6 +71,33 @@
 **** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
 **** Zirgais pajodineti prie juros (Dovil)
 * Archyvas
+**  <2021-08-25 Wed>
+**** Tulpese nera karsto
+**** REST DAY!!!
+**** kasiukas, pica, kavinuke, shopinimasis, poilsis
+**** 16:30 Atomines ekskursija (nop)
+**** Visaginas - vaiduokliu miestas (nop)
+**** 24-26 diena galima I ignalina ekskursija 90eur, savaitgali taip pat galima 28-29d (nop)
+**** Russian vibes (nop)
+**** Radijoaktyvumo skale!!! (nop)
+**** Apleisti namai (pasiimkit sportbacius) (nop)
+**** Paruski rajonai (garsiakalbiai, kiemai, ir pan) (nop)
+**** Pakimarinti prie Elektrines is didziosios E. (nop)
+**  <2021-08-24 Tue>
+**** Mamos gimsiukas!!!
+**** Tulpese nera karsto
+**** 8:30 pas Dovil
+**** Pas baba keksiukai
+**** Padevalkes (geltonas namelis)
+**** Basu koju takas (sweaty activity)
+**** Apzvalgos bokstas (beautiful tower)
+**** Sodeliskio dvaras (farm vibes)
+**** Masinu muziejus (car museum) (nop)
+**** Birzu pilis (nop)
+**** pakeliuj - Eco turgelis uz pasvalio
+**** Birzu kebabine (meniu foto check, uzsisakom telefonu) (nop)
+**** Kestucio g. firmine birzu duonos parde.
+**** Pliekti Karka vakare visiem
 **  <2021-08-23 Mon>
 **** Negyvosios kopos
 **** Zuvyte/aitvaras/gintarai papludimyje
