@@ -6,20 +6,19 @@
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-**  <2021-08-26 Thu>
-**** Tulpese nera karsto
-**** Linas
-**** Taboras
-**** Bazilikais bundialos Clement (maxima)
-**** Varlyte m
-**** 19:00 [[https://www.garsas.lt/renginys/rugpjucio-26-d-1900-val-filmas-frida-viva-la-vida/][Frida movie]]
+
 **  <2021-08-27 Fri>
+**** Varlyte
+**** Bazilikais bundialos Clement (maxima)
+**** Taboras
+**** Linas
 **** Tulpese nera karsto iki 18:00
+**** 12:00 kebabai su muzika
 **** [[https://renginiai.panevezysnow.lt/renginys/susitikime-penktadieni/][Susitikime penktadieni renginux]]
 **** 18:00 Instrumentinės, modernios ir roko klasikos grupė „Voiceless“
 **  <2021-08-28 Sat>
 **** Bistrampolio baras mama pasveikinti
-**** Ale kolonele sugedus? Pasiimk, susirasti dainusku
+**** Ale kolonele sugedus? Pasiimk, susirasti dainusku. Pakrovejas
 **  <2021-08-29 Sun>
 **** Sveteliai buna Vilniuje (1/2)
 **** Nemokami koncai Vilniuje snd
@@ -28,6 +27,7 @@
 **** Sveteliai buna Vilniuje (2/2)
 **** [[https://vilnius.lt/lt/2021/08/18/vilniaus-centre-iskilo-naujas-sodas-siuolaikinio-meno-kurinys/][Siolaikinio meno kurinys]]
 **** Arvydas su Julyte i Vilniu (darbo diena)
+**** Portalas i Liublina
 **** Vakare paspirtukais po Vilniu (uzupis)
 **** Lektuvu stebejimo aikstele arba oro balionu pakilimu/nusileidimu stebejimas
 **** [[https://pasaka.lt/kino-teatras/kinas-po-zvaigzdemis][Kino pasaka filmai - paspausk]]
@@ -72,6 +72,9 @@
 **** Hamakeliai kur ant juros kranto/ant kopos/miskelyje
 **** Zirgais pajodineti prie juros (Dovil)
 * Archyvas
+**  <2021-08-26 Thu>
+**** Tulpese nera karsto
+**** 19:00 [[https://www.garsas.lt/renginys/rugpjucio-26-d-1900-val-filmas-frida-viva-la-vida/][Frida movie]]
 **  <2021-08-25 Wed>
 **** Tulpese nera karsto
 **** REST DAY!!!
