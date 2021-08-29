@@ -1,4 +1,4 @@
-#+SETUPFILE: /home/azeubu/Dropbox/emacs/org-html-themes/org/theme-bigblow-local.setup
+#+SETUPFILE: /home/azeubu/Dropbox/learning_materials/emacs/org-html-themes/org/theme-bigblow-local.setup
 #+AUTHOR: Aze
 #+TITLE: Dienos kaip šventė
 #+DESCRIPTION: Rami galva
@@ -12,7 +12,7 @@
 **** Doviliuk susitinka drauges
 **  <2021-08-30 Mon>
 **** Bazilikais bundialos Clement (maxima)
-pp**** Sveteliai buna Vilniuje (2/2)
+**** Sveteliai buna Vilniuje (2/2)
 **** [[https://vilnius.lt/lt/2021/08/18/vilniaus-centre-iskilo-naujas-sodas-siuolaikinio-meno-kurinys/][Siolaikinio meno kurinys]]
 **** Arvydas su Julyte i Vilniu (darbo diena)
 **** Portalas i Liublina
