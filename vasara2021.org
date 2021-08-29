@@ -2,7 +2,7 @@
 #+AUTHOR: Aze
 #+TITLE: Dienos kaip šventė
 #+DESCRIPTION: Rami galva
-#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/personal_websites/doviliukas/emacs-html/index.html
+#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/personal_websites/vasara2021/index.html
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
