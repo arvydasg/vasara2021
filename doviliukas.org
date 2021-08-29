@@ -2,31 +2,17 @@
 #+AUTHOR: Aze
 #+TITLE: Dienos kaip šventė
 #+DESCRIPTION: Rami galva
-#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/doviliukas/emacs-html/index.html
+#+EXPORT_FILE_NAME: /home/azeubu/Dropbox/personal_websites/doviliukas/emacs-html/index.html
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-
-**  <2021-08-27 Fri>
-**** Varlyte
-**** Bazilikais bundialos Clement (maxima)
-**** Taboras
-**** Linas
-**** Tulpese nera karsto iki 18:00
-**** 12:00 kebabai su muzika
-**** [[https://renginiai.panevezysnow.lt/renginys/susitikime-penktadieni/][Susitikime penktadieni renginux]]
-**** 18:00 Instrumentinės, modernios ir roko klasikos grupė „Voiceless“
-**** Plaut masina
-**** Senvage apeiti/apziureti progresa
-**  <2021-08-28 Sat>
-**** Bistrampolio baras mama pasveikinti
-**** Ale kolonele sugedus? Pasiimk, susirasti dainusku. Pakrovejas
 **  <2021-08-29 Sun>
-**** Sveteliai buna Vilniuje (1/2)
+**** 11:00 Sveteliai isvaro i Vilniu (1/2)
 **** Nemokami koncai Vilniuje snd
-**** Doviliuk susitinka pazistamus
+**** Doviliuk susitinka drauges
 **  <2021-08-30 Mon>
-**** Sveteliai buna Vilniuje (2/2)
+**** Bazilikais bundialos Clement (maxima)
+pp**** Sveteliai buna Vilniuje (2/2)
 **** [[https://vilnius.lt/lt/2021/08/18/vilniaus-centre-iskilo-naujas-sodas-siuolaikinio-meno-kurinys/][Siolaikinio meno kurinys]]
 **** Arvydas su Julyte i Vilniu (darbo diena)
 **** Portalas i Liublina
@@ -38,6 +24,11 @@
 **** 14:45 Sveteliai isvaro
 * Galimos veiklos
 ** Panevezys
+**** Senvage apeiti/apziureti progresa
+**** Plaut masina
+**** 12:00 kebabai su muzika
+**** Taboras
+**** Linas
 **** Cido arena parkingas check
 **** Misios su baba
 **** Turgelis Klaipedos gatvej
@@ -50,7 +41,6 @@
 **** 29d. 18:00 Jazz concert thingy [[https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai][link]]
 **** Dalykai - https://cutt.ly/pQB1QYv
 ** Siaip uz miesto (?)
-**** Anyksciai palaipioti medziais?
 **** Stumbrai
 ** Valgymas
 **** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
@@ -61,6 +51,15 @@
 **** Kino pasaka (filmas po atviru dangumi?)
 **** Panarsyti pozeminiuose tuneliuose
 * Archyvas
+**  <2021-08-28 Sat>
+**** Grybaujam is ryto
+**** 18:00 Bistrampolio baras mama pasveikinti(kita karta limuzinas 70eur val)
+**** Ale kolonele sugedus? Pasiimk, susirasti dainusku. Pakrovejas
+**  <2021-08-27 Fri>
+**** Anyksciai medziai
+**** Anyksciai Wake board
+**** Tulpese nera karsto iki 18:00
+**** 18:00 Instrumentinės, modernios ir roko klasikos grupė „Voiceless“
 **  <2021-08-26 Thu>
 **** Tulpese nera karsto
 **** 19:00 [[https://www.garsas.lt/renginys/rugpjucio-26-d-1900-val-filmas-frida-viva-la-vida/][Frida movie]]
