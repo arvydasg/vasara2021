@@ -5,39 +5,6 @@
 #+EXPORT_FILE_NAME: /home/azeubu/Dropbox/personal_websites/vasara2021/index.html
 #+OPTIONS: num:nil d:t
 
-* Suplanuotos veiklos
-* Galimos veiklos
-** Panevezys
-**** Senvage apeiti/apziureti progresa
-**** Plaut masina
-**** 12:00 kebabai su muzika
-**** Taboras
-**** Linas
-**** Cido arena parkingas check
-**** Misios su baba
-**** Turgelis Klaipedos gatvej
-**** Baze
-**** Baidarem Panevezio rajone?
-**** Forumcinemas [[https://www.apollokinas.lt/home][Panevezyje]] [[https://www.forumcinemas.lt/Movies/Siauliai/][(bet galim ziureti ir kokiuose Siauliuose]] ;) )
-**** Ant lentu!! [[https://vandenlentes.lt/panevezys/][Wake parkas]]
-**** Patiem sukurti geocaching spota arba eiti ieskoti
-**** Aerodromo rajonai + aitvaras (lektuviukai ir pan, pestute)
-**** 29d. 18:00 Jazz concert thingy [[https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai][link]]
-**** Dalykai - https://cutt.ly/pQB1QYv
-** Siaip uz miesto (?)
-**** Stumbrai
-**** Anyksciu labirintas
-**** Nuomotis viecike Anyksciuose pernakvoti ir viska ten isnarsyti
-** Valgymas
-**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
-**** Pietus Zara restoranas
-**** Kimar ir kiesaras (kebabas/salotos) ant tinklu prie ekrano
-**** Surio lazdeles su cheetos - thank you bye
-** Vilnius (South)
-**** Kino pasaka (filmas po atviru dangumi?)
-**** Panarsyti pozeminiuose tuneliuose
-**** Aprodyti jegainiu rajona (pafotkinti)
-**** Aprodyti kalniukus Vilniaus (prie gariunu taip pat) (netoli jegainiu)
 * Archyvas
 **  <2021-08-31 Tue>
 **** Traskuciu gamyklos ekskursija
@@ -174,3 +141,36 @@
 ** Things learned
 **** kiek dienu - tiek skirtinu zmoniu suorganizuotu valgyma
 **** rest day suplanuota
+* Galimos veiklos
+** Panevezys
+**** Senvage apeiti/apziureti progresa
+**** Plaut masina
+**** 12:00 kebabai su muzika
+**** Taboras
+**** Linas
+**** Cido arena parkingas check
+**** Misios su baba
+**** Turgelis Klaipedos gatvej
+**** Baze
+**** Baidarem Panevezio rajone?
+**** Forumcinemas [[https://www.apollokinas.lt/home][Panevezyje]] [[https://www.forumcinemas.lt/Movies/Siauliai/][(bet galim ziureti ir kokiuose Siauliuose]] ;) )
+**** Ant lentu!! [[https://vandenlentes.lt/panevezys/][Wake parkas]]
+**** Patiem sukurti geocaching spota arba eiti ieskoti
+**** Aerodromo rajonai + aitvaras (lektuviukai ir pan, pestute)
+**** 29d. 18:00 Jazz concert thingy [[https://renginiai.kasvyksta.lt/92415/jauno-dziazo-dienos-troskunai][link]]
+**** Dalykai - https://cutt.ly/pQB1QYv
+** Siaip uz miesto (?)
+**** Stumbrai
+**** Anyksciu labirintas
+**** Nuomotis viecike Anyksciuose pernakvoti ir viska ten isnarsyti
+** Valgymas
+**** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
+**** Pietus Zara restoranas
+**** Kimar ir kiesaras (kebabas/salotos) ant tinklu prie ekrano
+**** Surio lazdeles su cheetos - thank you bye
+** Vilnius (South)
+**** Kino pasaka (filmas po atviru dangumi?)
+**** Panarsyti pozeminiuose tuneliuose
+**** Aprodyti jegainiu rajona (pafotkinti)
+**** Aprodyti kalniukus Vilniaus (prie gariunu taip pat) (netoli jegainiu)
+* Suplanuotos veiklos
