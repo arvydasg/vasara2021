@@ -6,23 +6,6 @@
 #+OPTIONS: num:nil d:t
 
 * Suplanuotos veiklos
-**  <2021-08-29 Sun>
-**** 11:00 Sveteliai isvaro i Vilniu (1/2)
-**** Nemokami koncai Vilniuje snd
-**** Doviliukas susitinka drauges
-**  <2021-08-30 Mon>
-**** Bazilikais bundialos Clement (maxima)
-**** Sveteliai buna Vilniuje (2/2)
-**** [[https://vilnius.lt/lt/2021/08/18/vilniaus-centre-iskilo-naujas-sodas-siuolaikinio-meno-kurinys/][Siolaikinio meno kurinys]]
-**** Arvydas su Julyte i Vilniu (darbo diena)
-**** Portalas i Liublina
-**** Vakare paspirtukais po Vilniu (uzupis)
-**** Lektuvu stebejimo aikstele arba oro balionu pakilimu/nusileidimu stebejimas
-**** [[https://pasaka.lt/kino-teatras/kinas-po-zvaigzdemis][Kino pasaka filmai - paspausk]]
-**  <2021-08-31 Tue>
-**** Traskuciu gamyklos ekskursija
-**** 12:45 Sveteliai turi buti oro uoste
-**** 14:45 Sveteliai isvaro
 * Galimos veiklos
 ** Panevezys
 **** Senvage apeiti/apziureti progresa
@@ -43,6 +26,8 @@
 **** Dalykai - https://cutt.ly/pQB1QYv
 ** Siaip uz miesto (?)
 **** Stumbrai
+**** Anyksciu labirintas
+**** Nuomotis viecike Anyksciuose pernakvoti ir viska ten isnarsyti
 ** Valgymas
 **** suji gulab jamun | सूजी के गुलाब जामुन रेसिपी | [[https://www.youtube.com/watch?v=mQak2o8_OdA][saldu, Nepalietiska]]
 **** Pietus Zara restoranas
@@ -51,7 +36,29 @@
 ** Vilnius (South)
 **** Kino pasaka (filmas po atviru dangumi?)
 **** Panarsyti pozeminiuose tuneliuose
+**** Aprodyti jegainiu rajona (pafotkinti)
+**** Aprodyti kalniukus Vilniaus (prie gariunu taip pat) (netoli jegainiu)
 * Archyvas
+**  <2021-08-31 Tue>
+**** Traskuciu gamyklos ekskursija
+**** Decathalonas
+**** 12:45 Sveteliai turi buti oro uoste
+**** 14:45 Sveteliai isvaro
+**  <2021-08-30 Mon>
+**** Bazilikais bundialos Clement (maxima)
+**** Sveteliai buna Vilniuje (2/2)
+**** [[https://vilnius.lt/lt/2021/08/18/vilniaus-centre-iskilo-naujas-sodas-siuolaikinio-meno-kurinys/][Siolaikinio meno kurinys]]
+**** Arvydas su Julyte i Vilniu (darbo diena)
+**** Portalas i Liublina (lijo, grazu, susimojavom)
+**** Vakare paspirtukais po Vilniu (uzupis) (nemegsta paspirtuku)
+**** Lektuvu stebejimo aikstele arba oro balionu pakilimu/nusileidimu stebejimas
+**** [[https://pasaka.lt/kino-teatras/kinas-po-zvaigzdemis][Kino pasaka filmai - paspausk]]
+**** Pakiesinom picos, pazaidem traukinukais, gerai praleidom laika
+**** Slugs!!!
+**  <2021-08-29 Sun>
+**** 11:00 Sveteliai isvaro i Vilniu (1/2)
+**** Nemokami koncai Vilniuje snd
+**** Doviliukas susitinka drauges
 **  <2021-08-28 Sat>
 **** Grybaujam is ryto
 **** 18:00 Bistrampolio baras mama pasveikinti(kita karta limuzinas 70eur val)
