@@ -4,6 +4,7 @@
 #+DESCRIPTION: Rami galva
 #+EXPORT_FILE_NAME: /home/azeubu/Dropbox/personal_websites/vasara2021/index.html
 #+OPTIONS: num:nil d:t
+#+ARCHIVE: ~/Dropbox/99.backups/archive/%s_archive::datetree/
 
 * Archyvas
 **  <2021-08-31 Tue>
@@ -144,6 +145,7 @@
 * Galimos veiklos
 ** Panevezys
 **** Senvage apeiti/apziureti progresa
+**** eurolink apziureti (apleistas pastatas)
 **** Plaut masina
 **** 12:00 kebabai su muzika
 **** Taboras
